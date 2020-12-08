@@ -1,0 +1,1 @@
+INSERT INTO PERSON VALUES(1, 28, 'p1@gmail.com', 'person1'), (2, 29, 'p2@gmail.com', 'person2');
